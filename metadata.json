@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Quake",
+  "description": "A visceral, high-performance automotive command center for the next generation of electric propulsion, fusing seismic engineering with surgical precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
